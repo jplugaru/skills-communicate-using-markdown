@@ -7,3 +7,6 @@ This is a meaningful sentence
 ``` javascript
 var myVar = "Hello, world!!!!!!";
 ```
+-  [ ] this is item 1
+-  [ ] this is item 2
+-  [ ] this is item 3
